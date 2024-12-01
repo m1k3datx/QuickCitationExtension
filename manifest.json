@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Quick Citation Generator",
+    "version": "1.0",
+    "description": "Generate quick citations for research from webpages.",
+    "permissions": ["activeTab", "tabs"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
